@@ -17,6 +17,3 @@ SELECT
         ELSE 0
     END AS status
 FROM "Orders";
-
-
-
